@@ -7,6 +7,6 @@
 
 出力　移動先の頂点座標
 
-mean value coordinatesのサンプル画像（左右の図形の出力）
+mean value coordinatesのサンプル画像（緑色の頂点が左右で対応している）
 
 <img src="image/mv_coord_input.png" width="300">　<img src="image/mv_coord_out.png" width="300">
