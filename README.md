@@ -1,4 +1,4 @@
-# coordinates
+# barycentric coordinates
 重心座標を計算するプログラム
 
 二つの図形において，内部の座標を対応付けたい場合に使えます．
