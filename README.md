@@ -1,10 +1,12 @@
 # coordinates
 重心座標を計算するプログラム
 
-入力　
+二つの図形において，内部の座標を対応付けたい場合に使えます．
 
-出力　指定した図形に頂点を移した画像
+入力　枠となる図形の頂点，移す頂点，移動先の図形の頂点
 
-mean value coordinatesのサンプル画像（左が入力，右が出力）
+出力　移動先の頂点座標
+
+mean value coordinatesのサンプル画像（左右の図形の出力）
 
 <img src="image/mv_coord_input.png" width="300">　<img src="image/mv_coord_out.png" width="300">
