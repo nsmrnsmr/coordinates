@@ -1,3 +1,8 @@
+/*
+  実行までの例（Eigenのパスは自身のパスを指定してください）
+  g++ mv_coord.cpp -o mv_coord -std=c++17 -I /usr/local/.../include/eigen3
+  ./mv_coord
+*/
 # include<iostream>
 # include<vector>
 # include"Eigen/Eigen"
