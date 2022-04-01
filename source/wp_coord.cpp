@@ -1,3 +1,10 @@
+/*
+  実行までの例（Eigenのパスは自身のパスを指定してください）
+  g++ wp_coord.cpp -o mv_coord -std=c++17 -I /usr/local/.../include/eigen3
+  ./wp_coord
+  
+  注意：gnuplot.hppは改良中なのでまだあげてません．
+*/
 # include<iostream>
 # include<vector>
 # include<Eigen/Core>
